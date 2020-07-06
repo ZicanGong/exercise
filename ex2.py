@@ -8,6 +8,7 @@ class Solution(object):
         
         """
         unfinished
+        return a wrong value when the correct answer is in the first k numbers
         """
         hindex = len(nums) - k + 1
         lindex = 0
