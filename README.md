@@ -12,6 +12,6 @@ https://leetcode-cn.com/problems/kth-largest-element-in-an-array/submissions/
 sliding window
 https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/
 
-# ex4 (to do)
+# ex4 
 regular expression matching
 https://leetcode-cn.com/problems/regular-expression-matching/
