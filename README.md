@@ -8,7 +8,7 @@ https://juejin.im/post/5ddfa3def265da05ef59fe6e
 find kth largest element in an array
 https://leetcode-cn.com/problems/kth-largest-element-in-an-array/submissions/
 
-# ex3 
+# ex3 (unfinished)
 sliding window
 https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/
 
