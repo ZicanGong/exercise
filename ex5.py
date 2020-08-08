@@ -50,4 +50,27 @@ class Solution(object):
         switchNodes(root,firstNode,secondNode)
         return
 
+#class Solution(object):
+#     def recoverTree(self, root):
+#         """
+#         :type root: TreeNode
+#         :rtype: None Do not return anything, modify root in-place instead.
+#         """
+#         switchList = [None,None,None]
+        
+#         def inOrderTrav(node):
+#             if not node:
+#                 return
+#             inOrderTrav(node.left)
+#             if switchList[0] and switchList[0].val > node.val:
+#                 if not switchList[1]:
+#                     switchList[1] = switchList[0]
+#                 switchList[2] = node
+#             switchList[0] = node
+#             inOrderTrav(node.right)
+        
+#         inOrderTrav(root)
+#         switchList[1].val, switchList[2].val = switchList[2].val, switchList[1].val
+#         return
+
             
