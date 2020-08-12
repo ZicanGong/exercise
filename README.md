@@ -19,7 +19,7 @@ https://leetcode-cn.com/problems/regular-expression-matching/
 # ex5 
 
 # ex6
-find repeat num
+find duplicated num
 
 # ex7
 path in the matrix
