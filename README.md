@@ -17,3 +17,9 @@ regular expression matching
 https://leetcode-cn.com/problems/regular-expression-matching/
 
 # ex5 
+
+# ex6
+
+# ex7
+path in the matrix
+https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/
